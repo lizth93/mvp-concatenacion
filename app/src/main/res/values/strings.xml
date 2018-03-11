@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="app_apellido">Apellido</string>
+    <string name="year">AAAA</string>
+    <string name="Mes">MM</string>
+    <string name="Day">DD</string>
+</resources>
